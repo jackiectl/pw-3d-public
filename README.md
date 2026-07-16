@@ -1,4 +1,4 @@
-# pw-3d-library
+# Tianlang (Jackie) Chen — Personal Website
 
 Personal website of **Tianlang (Jackie) Chen** — a bilingual (EN / 中文)
 portfolio rendered two ways: editorial **2D "catalog" pages** and a procedural
